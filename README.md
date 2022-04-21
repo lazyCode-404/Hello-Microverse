@@ -1,6 +1,6 @@
 # Hello-# My-Portfolio
 
-> set-up a Hello Microverse.
+> set-up a Hello Microverse!
 
 ![setup a hello-microverse](./photos/hello-microverse.png)
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Bwalya Nonde*
 
 - GitHub: [@BwalyaNonde](https://github.com/BwalyaNonde)
-- Twitter: [@BwalyaNonde]()
+- Twitter: [@BwalyaNonde](www.twittwwer.com)
 - LinkedIn: [Bwalya Nonde](https://www.linkedin.com/in/bwalya-nonde-29a003142/)
 
 ## 🤝 Contributing
